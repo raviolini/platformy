@@ -13,7 +13,7 @@
     - Objective is not clear as player have to look for the objective first
 - Because this is a coop game, the number of player to play this game is 2, no less, but maybe more
 
-## Features
+## Game Mechanics
 - Locked door/ block that can be opened or maybe despawned with corresponding colored key
 - Block that can be moved
 - Mobs that can help, annoy, kill, or do something to player
