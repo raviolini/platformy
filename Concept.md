@@ -33,7 +33,7 @@
     - Explosive
     - Locked doors that can only be opened by power
 
-# What Will Be Used
+## What Will Be Used
 - The Rust Programming Language
 - Bevy Engine
 - Rapier 2D Physics Engine
